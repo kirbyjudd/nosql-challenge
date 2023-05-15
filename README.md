@@ -26,3 +26,6 @@ The last part of the assignment had me analyze the information from the database
 - How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 
 I converted all of the question results to Pandas DataFrames.
+
+## File Locations
+The two jupyter notebooks are located in the "Starter_Code" folder and are called 'NoSQL_setup_starter.ipynb' and 'NoSQL_analysis_starter.ipynb'
